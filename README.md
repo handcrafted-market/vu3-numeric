@@ -5,7 +5,9 @@
 [![npm](https://img.shields.io/npm/dm/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue3-numeric)
 [![npm](https://img.shields.io/npm/l/vue3-numeric.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-This is an implementation for Vue 3 of the Original project [vue-numeric](https://github.com/kevinongko/vue-numeric) in its version 2.4.3
+This is an implementation for Vue 3 of the Original project [vue-numeric](https://github.com/kevinongko/vue-numeric) in its version 2.4.3.
+
+It initially existed at https://github.com/flvportafolio/vue3-numeric but seems to have been deleted. Since it has an MIT license, it's been reuploaded here in the state that it last existed in our deployments. We may or may not be able to actually support issues that are raised for the project.
 
 
 ## Installation
