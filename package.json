@@ -1,6 +1,6 @@
 {
   "name": "@handcrafted-market/vue3-numeric",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Input field component to display currency value based on vue-numeric.",
   "files": [
     "dist"
