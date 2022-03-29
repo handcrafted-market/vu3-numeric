@@ -1,13 +1,13 @@
 {
-  "name": "vue3-numeric",
-  "version": "1.0.2",
+  "name": "@handcrafted-market/vue3-numeric",
+  "version": "1.0.3",
   "description": "Input field component to display currency value based on vue-numeric.",
   "files": [
     "dist"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flvportafolio/vue3-numeric.git"
+    "url": "git+https://github.com/handcrafted-market/vue3-numeric.git"
   },
   "keywords": [
     "component",
@@ -41,5 +41,10 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
     "vite": "^2.6.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/handcrafted-market/vue3-numeric/issues"
+  },
+  "homepage": "https://github.com/handcrafted-market/vue3-numeric#readme",
+  "author": ""
 }

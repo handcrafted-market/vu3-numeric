@@ -9,15 +9,11 @@ This is an implementation for Vue 3 of the Original project [vue-numeric](https:
 
 It initially existed at https://github.com/flvportafolio/vue3-numeric but seems to have been deleted. Since it has an MIT license, it's been reuploaded here in the state that it last existed in our deployments. We may or may not be able to actually support issues that are raised for the project.
 
-
 ## Installation
 
 ```sh
 # NPM
-$ npm install vue3-numeric
-
-# Yarn
-$ yarn add vue3-numeric
+$ npm install @handcrafted-market/vue3-numeric
 ```
 ## CDN
 ```html
