@@ -1,9 +1,8 @@
 # vue3-numeric
 
-[![npm](https://img.shields.io/npm/v/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue3-numeric)
-[![npm](https://img.shields.io/npm/dt/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue3-numeric)
-[![npm](https://img.shields.io/npm/dm/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue3-numeric)
-[![npm](https://img.shields.io/npm/l/vue3-numeric.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/@handcrafted-market/vue3-numeric)
+[![npm](https://img.shields.io/npm/dt/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/@handcrafted-market/vue3-numeric)
+[![npm](https://img.shields.io/npm/dm/vue3-numeric.svg?style=flat-square)](https://www.npmjs.com/package/@handcrafted-market/vue3-numeric)
 
 This is an implementation for Vue 3 of the Original project [vue-numeric](https://github.com/kevinongko/vue-numeric) in its version 2.4.3.
 
